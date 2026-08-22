@@ -11,19 +11,20 @@ Data Analysis and Visualisation project using two South African datasets from Wo
 - Kabelo George Sethunya – 202424816
 - Raymond Thabang Mothoa – 202409842
 
-## Repository Structure
+```
 NDTA631-Group-Assignment/
 ├── data/
-│ ├── raw/ # Original World Bank CSV files
-│ └── final_clean/ # Cleaned, merged dataset used by all notebooks
+│   ├── raw/                 # Original World Bank CSV files
+│   └── final_clean/         # Cleaned, merged dataset used by all notebooks
 ├── deliverables/
-│ ├── 01_data_preparation/ # Data loading, cleaning, validation
-│ ├── 02_numpy_analysis/ # NumPy statistical analysis
-│ ├── 03_visualisation/ # Matplotlib charts (bar, line, pie, scatter, histogram, box plot)
-│ ├── 04_database_integration/# SQLite database build and queries
-│ └── 05_excel_python_analysis/ # Conditional formatting and further analysis
-├── GROUP_ASSIGNMENT_combined.ipynb # All five deliverables combined into one notebook
+│   ├── 01_data_preparation/     # Data loading, cleaning, validation
+│   ├── 02_numpy_analysis/       # NumPy statistical analysis
+│   ├── 03_visualisation/        # Matplotlib charts (bar, line, pie, scatter, histogram, box plot)
+│   ├── 04_database_integration/ # SQLite database build and queries
+│   └── 05_excel_python_analysis/ # Conditional formatting and further analysis
+├── GROUP_ASSIGNMENT_combined.ipynb  # All five deliverables combined into one notebook
 └── README.md
+```
 
 
 ## Environment Configuration
